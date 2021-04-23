@@ -1,0 +1,16 @@
+## Leyenda utilizada para generar mapa de sismicidad que se incluye en el reporte mensual 
+## de sismicidad
+## Elaborado por Leonardo Alvarado
+H 8 1 Magnitud
+D 0.2c 0.5p
+G 0.14c
+S 0.25c c 0.38c red    thin 0.7c mayor o igual a 5,0
+G 0.14c
+S 0.25c c 0.32c yellow thin 0.7c entre 4,0 y 4,9
+G 0.14c
+S 0.25c c 0.28c cyan  thin 0.7c entre 3,0 y 3,9
+G 0.14c
+S 0.25c c 0.23c green thin 0.7c menor a 3,0
+G 0.20c
+M 1 1 200+u
+
